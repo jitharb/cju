@@ -1,0 +1,6 @@
+{
+  "name": "청주대학교 스마트 포털",
+  "description": "실학성세 4.0! 미래를 이끄는 청주대학교의 실감형 스마트 포털 및 입학 가이드입니다. 단과대학 안내, 맞춤형 융합 인재 전형 가이드, 캠퍼스맵 및 기숙사/셔틀버스 일정, 전문 AI 학사 비서 챗봇을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
